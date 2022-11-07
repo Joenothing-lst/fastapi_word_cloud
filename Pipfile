@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+fastapi = "*"
+pandas = "*"
+jieba = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+oss2 = "*"
+xlrd = "==1.2.0"
+wordcloud = "*"
 
 [dev-packages]
 
