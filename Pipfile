@@ -11,6 +11,8 @@ uvicorn = {extras = ["standard"], version = "*"}
 oss2 = "*"
 xlrd = "==1.2.0"
 wordcloud = "*"
+python-multipart = "*"
+openpyxl = "*"
 
 [dev-packages]
 
