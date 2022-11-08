@@ -569,7 +569,7 @@
     ```
 ### 3.2 词云图
 
-    ./de431c8cca9e43958cc84d7cae4a8c4f.png
+    ![image text](./de431c8cca9e43958cc84d7cae4a8c4f.png)
 
 
 
