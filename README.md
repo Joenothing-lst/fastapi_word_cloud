@@ -30,7 +30,7 @@
     ```
 
 3. 测试  
-本地部署后，可通过`http://localhost:8000/docs`访问接口文档，使用单词云、多词云和用户设置的xlsx模版进行测试
+本地部署后，可通过`http://localhost:8000/docs`访问接口文档，使用[单词云](./单词云.xlsx)、[多词云](./多词云.xlsx)和[用户设置](./用户设置.xlsx)的xlsx模版进行测试
 
 
 ## 3. 结果展示
@@ -568,8 +568,7 @@
     }
     ```
 ### 3.2 词云图
-
-    ![image text](./de431c8cca9e43958cc84d7cae4a8c4f.png)
+![image text](./de431c8cca9e43958cc84d7cae4a8c4f.png)
 
 
 
